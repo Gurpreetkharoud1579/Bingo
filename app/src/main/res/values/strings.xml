@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bingo</string>
+    <string name="titleImageBingo">titleImageBingo</string>
+    <string name="reset">reset</string>
+    <string name="startGuide">Click on each tile to fill the Bingo board</string>
+</resources>
